@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "23646712593",
+    "firebase_url": "https://project-st-iot-default-rtdb.firebaseio.com",
+    "project_id": "project-st-iot",
+    "storage_bucket": "project-st-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23646712593:android:7f0a2f306052029b50d2b0",
+        "android_client_info": {
+          "package_name": "com.example.iot_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWr83nRZesQ4xPx762rDlgr8CvnVjkEQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23646712593:android:dd9eb761430153e550d2b0",
+        "android_client_info": {
+          "package_name": "com.example.simoflood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWr83nRZesQ4xPx762rDlgr8CvnVjkEQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
