@@ -1,6 +1,6 @@
 # SIMOFLOOD - Sistem Monitoring Banjir
 
-Aplikasi mobile untuk memantau status sungai dan potensi banjir secara real-time dengan Firebase Realtime Database/Firestore.
+SiMoFlood adalah aplikasi mobile android untuk memantau ketinggian air sungai, kecepatan arus air, dan kondisi cuaca secara real-time. Aplikasi SiMoFlood menggunakan data dari sensor IoT yang terhubung ke Firebase untuk memberikan peringatan dini tentang potensi banjir.
 
 ## Fitur
 
@@ -41,8 +41,10 @@ Keterangan Status Berdasarkan Jarak Sensor Kepada Tinggi Muka Air:
 - **Waspada** - ketinggian air 31-60 cm
 - **Bahaya** - ketinggian air < 30 cm
 
-
-##About Apps
+## About Apps
+Versi Aplikasi 0.0.1
+Pengembang Apllikasi:
 © Muhammad Barkah AL Gibran 
+2104498
 Universitas Pendidikan Indonesia 
 2025 
