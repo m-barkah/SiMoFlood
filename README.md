@@ -42,9 +42,9 @@ Keterangan Status Berdasarkan Jarak Sensor Kepada Tinggi Muka Air:
 - **Bahaya** - ketinggian air < 30 cm
 
 ## About Apps
-Versi Aplikasi 0.0.1
-Pengembang Apllikasi:
-© Muhammad Barkah AL Gibran 
-2104498
-Universitas Pendidikan Indonesia 
-2025 
+Versi Aplikasi 0.0.1  
+Pengembang Apllikasi:  
+© Muhammad Barkah AL Gibran  
+2104498  
+Universitas Pendidikan Indonesia  
+2025  
